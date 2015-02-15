@@ -161,7 +161,7 @@ init_mathjax = function() {
 }
 init_mathjax();
 </script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://ajax.useso.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 <script type="text/javascript">
 jQuery(document).ready(function($) {
